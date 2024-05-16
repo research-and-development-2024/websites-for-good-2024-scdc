@@ -8,6 +8,7 @@ Web page implementations for SCDC's Digital Services
 - Jan Chan jchan53@calstatela.edu
 
 [Link to Team Undergraduate 8's Page Implementation \(English version\)](https://research-and-development-2024.github.io/websites-for-good-2024-scdc/ueight/index-EN.html)
+
 [Link to Team Undergraduate 8's Page Implementation \(Spanish version\)](https://research-and-development-2024.github.io/websites-for-good-2024-scdc/ueight/index-ES.html)
 
 ## Team Undergraduate 5
